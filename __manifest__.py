@@ -13,6 +13,7 @@
     "data": [
         "views/sale_order_views.xml",
         "views/state_change_registry_views.xml",
+        "reports/sale_order_state_change_registry_report_inherit.xml",
     ],
     "installable": True,
     "application": False,
