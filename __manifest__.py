@@ -10,7 +10,10 @@
         "sale",
         "state_change_registry",
     ],
-    "data": [],
+    "data": [
+        "views/sale_order_views.xml",
+        "views/state_change_registry_views.xml",
+    ],
     "installable": True,
     "application": False,
 }
