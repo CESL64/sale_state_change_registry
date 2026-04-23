@@ -7,7 +7,7 @@
     "license": "LGPL-3",
     "category": "Sales",
     "depends": [
-        "sale",
+        "sale_management",
         "state_change_registry",
     ],
     "data": [
